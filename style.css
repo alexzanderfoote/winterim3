@@ -13,13 +13,17 @@
     padding: 0;
 }
 .footer {
-    height: 68px;
-    background-color: purple;
+    height: 10px;
+    background-color: gray;
     text-align: left;
+    margin-left: 50px;
+    font-size: 10px;
+    padding-top: 100px;
 }
 
 .nav {
     height: 10px;
+
 }
 
 .wrapper {
@@ -31,21 +35,21 @@
     width: 100%;
     bottom: 0;
     left: 0;
-    top: 40px;
-    bottom: 40px;
+    top: 50px;
+    bottom: 50px;
     position: absolute;
-    background-color: gray;
+    background-color: gray;   
 }
 
 .header {
     width: 100%;
-    height: 40px;
+    height: 51px;
     bottom: 0;
     left: 0;
     position: absolute;
     top: 0;
     background-color:white;
-    font-size: 30px;
+    font-size: 43px;
     text-align: center;
 }
 
@@ -58,13 +62,16 @@
 .content{
     background-color: white;
     text-align: center;
-    
+    width: 200px;
+    height: 100%;
+    padding-top: 20px;
 }
 
-.addstd {
-    width: 150px;
+.adstd {
+    width: 300px;
+    height: 100%;
 }
-.adds
+.ads
 {
     width: 100%;
     height: 100%;
@@ -73,7 +80,7 @@
     margin: 0%;
     top: 40px;
     bottom: 40px;
-    background-color: yellow;
+    background-color: gray;
 }
 
 .media{
