@@ -17,12 +17,15 @@
     background-color: gray;
     text-align: left;
     margin-left: 50px;
-    font-size: 50px;
+    font-size: 10px;
     padding-top: 2px;
 }
 
 .nav {
-    height: 10px;
+    height: 10px; 
+    position: -webkit-sticky; 
+    position: sticky;
+    top: 0;
 
 }
 
@@ -56,7 +59,7 @@
 .contenttable {
     width: 100%;
     height: 100%;
-    border-spacing: 2px;
+    border-spacing: 0px;
     
     
 }
